@@ -1,7 +1,5 @@
-import React from "react";
+import React from "react"
 
-function Home() {
-  return <div>{/*{code here}*/}</div>;
+export default function Home() {
+  return <h1>Home!</h1>
 }
-
-export default Home;
